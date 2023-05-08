@@ -6,5 +6,6 @@ A simple **pong** game made with pygame.
 * no lag
 * game
 
+- [x] exist
 - [ ] make the whole entire game
 - [ ] publish to github
