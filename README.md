@@ -1,2 +1,2 @@
 # 500ping
-A simple pong game made with pygame.
+A simple *pong* game made with pygame.
