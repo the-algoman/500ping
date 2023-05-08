@@ -7,5 +7,5 @@
 * game
 
 - [x] make it exist
-- [ ] make the whole entire game
+- [x] make the whole entire game
 - [ ] publish to github
